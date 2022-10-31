@@ -1,0 +1,76 @@
+ ---BJC Error!2022-09-22 02:37:54.399197
+  ---BJC Error!2022-09-22 02:39:17.448922
+
+
+  ---BJC Error!2022-09-22 02:44:58.470426 could not convert string to float: '-'
+  ---BJC Error!2022-09-22 02:47:59.644543 could not convert string to float: '-'
+ ....393-KK SUMMARY WORKSHEET NOT FOUND Error!2022-09-22 03:28:40.611904
+ ....399-NNCL SUMMARY WORKSHEET NOT FOUND Error!2022-09-22 03:34:32.134055
+ ....393-KK SUMMARY WORKSHEET NOT FOUND Error!2022-09-22 03:39:13.173002
+ Above is a test line \n ข้างบนเป็น test เเต่ก็มีปัญหาจริงเหมือนกันครับ
+ 
+ ....393-KK SUMMARY WORKSHEET NOT FOUND Error!2022-09-22 03:48:57.150675
+ ....207-CPF SUMMARY WORKSHEET NOT FOUND Error!2022-09-22 03:55:21.191983
+ ....208-COM7 SUMMARY WORKSHEET NOT FOUND Error!2022-09-22 03:55:22.583152
+ ....604-STEC SUMMARY WORKSHEET NOT FOUND Error!2022-09-22 03:57:57.045879
+ ----614-SUPEREIF Error!2022-09-22 04:08:01.812754 could not convert string to float: '-45,500,000'
+ ----237-HANA Error!2022-09-22 04:20:31.911965 division by zero
+ ....630-TC SUMMARY WORKSHEET NOT FOUND Error!2022-09-22 04:21:46.872000
+ ----239-HEMP Error!2022-09-22 04:22:36.613861 could not convert string to float: '-5,634,651'
+ ----631-TCAP Error!2022-09-22 04:22:51.179103 division by zero
+ ----243-HPF Error!2022-09-22 04:25:18.357754 could not convert string to float: '-47,000,000'
+ ....252-IFEC SUMMARY WORKSHEET NOT FOUND Error!2022-09-22 04:32:38.326847
+ ----659-TIF1 Error!2022-09-22 04:40:45.077881 could not convert string to float: '-2,200,000'
+ ....425-PAF SUMMARY WORKSHEET NOT FOUND Error!2022-09-22 04:46:21.889173
+ ....429-PCSGH SUMMARY WORKSHEET NOT FOUND Error!2022-09-22 04:49:10.918954
+ ....284-JMT SUMMARY WORKSHEET NOT FOUND Error!2022-09-22 04:53:50.841851
+ ----678-TNH Error!2022-09-22 04:54:15.168872 list index out of range
+ ----689-TOPP Error!2022-09-22 05:00:09.838912 list index out of range
+ ----62-AYUD Error!2022-09-22 05:00:58.756909 could not convert string to float: '-'
+ ----706-TRU Error!2022-09-22 05:13:17.803863 could not convert string to float: '-453,200'
+ ----707-TRUBB Error!2022-09-22 05:14:53.796862 could not convert string to float: '-1,700,000'
+ ----79-BGRIM Error!2022-09-22 05:15:24.242707 could not convert string to float: '-30,000,000'
+ ----83-BJC Error!2022-09-22 05:18:35.877721 could not convert string to float: '-'
+ ----323-LH Error!2022-09-22 05:19:08.603714 division by zero
+ ----86-BKKCP Error!2022-09-22 05:20:53.701666 could not convert string to float: '-7,496,200'
+ ....471-PSG SUMMARY WORKSHEET NOT FOUND Error!2022-09-22 05:25:59.862936
+ ----331-LPF Error!2022-09-22 05:26:02.787942 could not convert string to float: '-48,757,500'
+ ----707-TRUBB Error!2022-09-22 05:27:48.101942 could not convert string to float: '-1,700,000'
+ ----708-TRUE Error!2022-09-22 05:29:39.366941 could not convert string to float: '-490,000,000'
+ ----712-TSF Error!2022-09-22 05:33:24.680845 Request exception can happen due to an api connection error. Please check your connection and try again
+ ----100-BTSGIF Error!2022-09-22 05:33:24.786845 Request exception can happen due to an api connection error. Please check your connection and try again
+ ----338-MAJOR Error!2022-09-22 05:33:24.919850 Request exception can happen due to an api connection error. Please check your connection and try again
+ ----339-MAKRO Error!2022-09-22 05:33:51.581916 Request exception can happen due to an api connection error. Please check your connection and try again
+ ----713-TSI Error!2022-09-22 05:33:59.730914 Request exception can happen due to an api connection error. Please check your connection and try again
+ ----479-PTL Error!2022-09-22 05:34:07.729938 Request exception can happen due to an api connection error. Please check your connection and try again
+ ----340-MANRIN Error!2022-09-22 05:34:12.519915 Request exception can happen due to an api connection error. Please check your connection and try again
+ ----101-BTW Error!2022-09-22 05:34:18.167916 Request exception can happen due to an api connection error. Please check your connection and try again
+ ----714-TSR Error!2022-09-22 05:34:19.518915 Request exception can happen due to an api connection error. Please check your connection and try again
+ ----715-TSTE Error!2022-09-22 05:35:43.478048 could not convert string to float: '-54,700'
+ ----100-BTSGIF Error!2022-09-22 05:38:35.153169 could not convert string to float: '-82,000,000'
+ ----712-TSF Error!2022-09-22 05:39:39.681324 could not convert string to float: '-322,715,750'
+ ----713-TSI Error!2022-09-22 05:41:45.285981 could not convert string to float: '-1,978,397'
+ ----105-BYD Error!2022-09-22 05:43:32.329844 could not convert string to float: '-157,796,396'
+ ----715-TSTE Error!2022-09-22 05:43:33.036904 could not convert string to float: '-54,700'
+ ----717-TTA Error!2022-09-22 05:46:01.704049 could not convert string to float: '-1,149,558'
+ ....494-RCL SUMMARY WORKSHEET NOT FOUND Error!2022-09-22 05:46:42.199238
+ ....350-MDX SUMMARY WORKSHEET NOT FOUND Error!2022-09-22 05:47:05.914877
+ ....353-META SUMMARY WORKSHEET NOT FOUND Error!2022-09-22 05:47:50.384374
+ ----115-CHEWA Error!2022-09-22 05:55:09.226833 could not convert string to float: '-239,119,300'
+ ----369-MNIT2 Error!2022-09-22 05:59:07.681030 could not convert string to float: '-16,420,493'
+ ....371-MODERN SUMMARY WORKSHEET NOT FOUND Error!2022-09-22 05:59:51.101949
+ ----378-M-STOR Error!2022-09-22 06:06:50.696465 could not convert string to float: '-2,500,000'
+ ....754-VIBHA SUMMARY WORKSHEET NOT FOUND Error!2022-09-22 06:10:10.239253
+ ----757-VNG Error!2022-09-22 06:12:57.836957 could not convert string to float: '-22,500,000'
+ ----140-CPNCG Error!2022-09-22 06:13:28.233302 could not convert string to float: '-106,660,000'
+ ----760-W Error!2022-09-22 06:16:07.787581 could not convert string to float: '-3,119,600'
+ ....539-SE-ED SUMMARY WORKSHEET NOT FOUND Error!2022-09-22 06:18:50.456472
+ ----779-ZIGA Error!2022-09-22 06:37:54.880506 could not convert string to float: '-'
+ ....577-SORKON SUMMARY WORKSHEET NOT FOUND Error!2022-09-22 06:52:50.394718
+ ----584-SPI Error!2022-09-22 06:58:15.198779 list index out of range
+ ....180-EFORL SUMMARY WORKSHEET NOT FOUND Error!2022-09-22 07:00:54.833755
+ ----181-EGATIF Error!2022-09-22 07:01:20.890800 could not convert string to float: '-521,375,000'
+ ....585-S & J SUMMARY WORKSHEET NOT FOUND Error!2022-09-22 07:13:49.515906
+ ----779-ZIGA Error!2022-09-22 07:14:15.052907 could not convert string to float: '-'
+ ----191-EVER Error!2022-09-22 07:16:10.363896 could not convert string to float: '-11,021,100'
+ 
